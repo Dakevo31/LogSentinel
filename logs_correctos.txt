@@ -1,0 +1,5 @@
+[INFO] 2025-01-10 User logged in
+[ERROR] 2025-01-10 Database connection failed
+[WARNING] 2025-01-11 Invalid password attempt
+[INFO] 2025-01-11 User logged out
+[ERROR] 2025-01-12 Server unavailable

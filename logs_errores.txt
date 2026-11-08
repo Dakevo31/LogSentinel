@@ -1,0 +1,8 @@
+[INFO] 2025-01-10 User logged in
+[ERROR] 2025-02-30 Database connection failed
+[WARNING] Invalid password attempt
+[DEBUG] 2025-01-12 Debugging application
+[ERROR] 2025-01-13
+[INFO] 2025-15-40 Server started
+
+[WARNING] 2025-01-15 Low disk space

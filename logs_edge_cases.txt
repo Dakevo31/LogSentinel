@@ -1,0 +1,6 @@
+[INFO] 2025-01-10
+[ERROR] 2025-02-29 Database failure
+[WARNING] 2024-02-29 Leap year detected
+[INFO] User logged in
+[ERROR]
+[DEBUG] 2025-01-10 Debugging process
